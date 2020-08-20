@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import Profile from "./chea-profile.PNG"
+import Profile from "./chea-profile.PNG";
 
 function HomeBody() {
   return (
@@ -16,8 +16,10 @@ function HomeBody() {
         <segment class="col-sm-10">
           <img src={Profile} alt="Me" id="chea-profile" />
           <p>
-            My current skillset includes: JavaScript, jQuery, React, Node,
-            Express, MongoDB, and MySQL.
+            I am a Full Stack Web and Software Developer, certified through the
+            Georgia Institute of Technology. My current skillset includes:
+            JavaScript, jQuery, React, Node, Express, MongoDB, and SQL
+            databases.
           </p>
           <p>
             I am a Georgia native, originally from Augusta. My hobbies are
@@ -36,11 +38,11 @@ function HomeBody() {
             I aim to grow alongside my career.
           </p>
           <p>
-            My academic background includes a Bacherlor of Arts in English
+            I have completed a Full Stack Development course offered by the
+            Georgia Institute of Technology, receiving a 4.0 for my exemplary
+            work. My academic background also includes a Bacherlor of Arts in English
             Composition, with side studies in Computer Science, and a Master of
-            Arts in Literature. What I initially lack in a formal Computer
-            Science degree, I make up for it with ingenuity, tenacity, and an
-            eagerness to learn.
+            Arts in Literature.
           </p>
         </segment>
         <div class="col-sm-1"></div>
