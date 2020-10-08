@@ -43,7 +43,7 @@ function ContactBody() {
                 LinkedIn
               </a>
               <a
-                href="https://docs.google.com/document/d/1n9vzIYh6IPkhNoxoLfy_VqRGNaWDyRFiuc6jqUuHyVI/edit?usp=sharing"
+                href="https://docs.google.com/document/d/1n9vzIYh6IPkhNoxoLfy_VqRGNaWDyRFiuc6jqUuHyVI/export?format=pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="card-link"
