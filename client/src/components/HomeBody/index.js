@@ -26,16 +26,17 @@ function HomeBody() {
             I am a Georgia native, originally from Augusta, but now I reside in
             metro Atlanta. My hobbies are trail-riding on my mountain bike,
             reading books (currently going through the Dune series), and
-            spoiling my two cats. Currently, I am seeking opportunities to grow
-            a career in web development around the Atlanta area.
+            spoiling my two cats. Being a life-long learner, I am always seeking
+            opportunities to grow a career in web development and enterpricing
+            technologies around the Atlanta area.
           </p>
           <p>
             Currently, I am employed as a Systems Adminstrator for American
             Global Wealth Services, where I primarily create and update workflow
-            boards, facilitate transfer of Excel spreadsheets to SQL database
-            structures, and varied Front-End development tasks. I am also
-            currently an intern for a startup enterprise application called Sky
-            Retro, where I contribute on both Front-End and Back-End
+            boards with Jira, facilitate transfer of Excel spreadsheets to SQL
+            database structures, and varied front-end development tasks. I am
+            also an intern for a startup enterprise application called Sky
+            Retro, where I contribute on both front-end and back-end
             development. As you can see, I like to stay busy!
           </p>
           <p>
