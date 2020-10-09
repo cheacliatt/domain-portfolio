@@ -23,12 +23,12 @@ function HomeBody() {
             comfortable with participating with Agile practices.
           </p>
           <p>
-            I am a Georgia native, originally from Augusta, but now I reside in
-            metro Atlanta. My hobbies are trail-riding on my mountain bike,
-            reading books (currently going through the Dune series), and
-            spoiling my two cats. Being a life-long learner, I am always seeking
-            opportunities to grow a career in web development and enterpricing
-            technologies around the Atlanta area.
+            A Georgia native, originally from Augusta, I now reside within the
+            Atlanta metropolitan area. My hobbies are trail-riding on my
+            mountain bike, reading books (currently going through the Dune
+            series), cooking, and spoiling my two cats. Being a life-long
+            learner, I am always seeking opportunities to grow a career in web
+            development and enterpricing technologies around the Atlanta area.
           </p>
           <p>
             Currently, I am employed as a Systems Adminstrator for American
