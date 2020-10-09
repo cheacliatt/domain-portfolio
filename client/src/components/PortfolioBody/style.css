@@ -3,13 +3,14 @@ h1 {
   color: whitesmoke;
   font-family: "Neuton", serif;
 }
-h5 {
+/* h5 {
   font-family: "Neuton", serif;
-}
+} */
 
-h8 {
+h5 {
   color: whitesmoke;
-  font-weight: bold;
+  margin-top: -20px;
+  /* font-weight: bold; */
 }
 
 p {
@@ -58,15 +59,15 @@ img {
 .container {
   background-color: rgb(37, 37, 37) !important;
   height: 70%;
-  margin-right: 80%;
-  margin-left: 15%;
+  margin-right: auto;
+  margin-left: auto;
   margin-top: 2%;
   margin-bottom: 4%;
   padding-left: 35px;
   padding-right: 45px;
   padding-top: 35px;
   position: relative;
-  width: 60%;
+  width: 100%;
   border-radius: 2%;
 }
 
@@ -147,11 +148,16 @@ footer {
 
 @media screen and (max-width: 768px) {
   img {
-    width: 50%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     float: none;
+  }
+
+  h5 {
+    margin-top: 5px;
+    margin-bottom: -1px;
   }
 
   #chea-profile {
@@ -179,5 +185,8 @@ footer {
 
   .container {
     width: 70%;
+    border-radius: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
   }
 }

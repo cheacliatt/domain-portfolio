@@ -9,7 +9,7 @@ function HomeBody() {
         <div class="col-sm-10">
           <h1>About Myself</h1>
         </div>
-        <div class="col-sm-1"></div>
+        {/* <div class="col-sm-1"></div> */}
       </header>
       <hr />
       <article class="row main-row">

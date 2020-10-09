@@ -9,15 +9,15 @@
     font-family: 'Neuton', serif;
   }
   
-  h8 {
-    color: whitesmoke;
-    font-weight: bold;
-  }
-  
   p {
     color: whitesmoke;
     font-size: 16px;
     font-family: 'Actor', sans-serif;
+  }
+
+  hr {
+    margin-top: 0em;
+    margin-bottom: 0em;
   }
   
   .bg-light {

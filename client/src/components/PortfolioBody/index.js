@@ -31,13 +31,13 @@ function PortfolioBody() {
             <img src={Book} alt="Google Books ScreenShot" />
           </a>
           <br />
-          <h8>Google Book Search </h8>
+          <h5>Google Book Search </h5>
           <a
             href="https://github.com/cheacliatt/react-google-book-search"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i className="fa fa-github" aria-hidden="true"></i>
+            Github <i className="fa fa-github" aria-hidden="true"></i>
           </a>
           <p className="app-description">
             A full MERN app that allows users to look up books and add them to
@@ -54,13 +54,13 @@ function PortfolioBody() {
             <img src={TPacker} alt="Track Packer ScreenShot" />
           </a>
           <br />
-          <h8>Track Packer </h8>
+          <h5>Track Packer </h5>
           <a
             href="https://github.com/cheacliatt/trackPacker"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i className="fa fa-github" aria-hidden="true"></i>
+            Github <i className="fa fa-github" aria-hidden="true"></i>
           </a>
           <p className="app-description">
             A React app to keep track of equipment. Authenticated with
@@ -79,13 +79,13 @@ function PortfolioBody() {
             <img src={Budget} alt="Budget Tracker ScreenShot" />
           </a>
           <br />
-          <h8>Budget Tracker </h8>
+          <h5>Budget Tracker </h5>
           <a
             href="https://github.com/cheacliatt/budget-tracker"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i className="fa fa-github" aria-hidden="true"></i>
+            Github <i className="fa fa-github" aria-hidden="true"></i>
           </a>
           <p className="app-description">
             A web application that tracks a user's budget with MongoDB and
@@ -102,13 +102,13 @@ function PortfolioBody() {
             <img src={Employee} alt="Employee Directory ScreenShot" />
           </a>
           <br />
-          <h8>Employee Directory </h8>
+          <h5>Employee Directory </h5>
           <a
             href="https://github.com/cheacliatt/gt-employee-directory-cac"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i className="fa fa-github" aria-hidden="true"></i>
+            Github <i className="fa fa-github" aria-hidden="true"></i>
           </a>
           <p className="app-description">
             An employee directory model application made using React and
@@ -127,13 +127,13 @@ function PortfolioBody() {
             <img src={Movie} alt="Movie Suggestion ScreenShot" />
           </a>
           <br />
-          <h8>Movie Generator </h8>
+          <h5>Movie Generator </h5>
           <a
             href="https://github.com/cheacliatt/Staying-in-Tonight-Generator"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i className="fa fa-github" aria-hidden="true"></i>
+            Github <i className="fa fa-github" aria-hidden="true"></i>
           </a>
           <p className="app-description">
             A movie and video game recommendation generator using jQuery and
@@ -150,13 +150,13 @@ function PortfolioBody() {
             <img src={Weather} alt="Weather Forecast ScreenShot" />
           </a>
           <br />
-          <h8>Weather Forecast </h8>
+          <h5>Weather Forecast </h5>
           <a
             href="https://github.com/cheacliatt/gt-weather-dashboard"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i className="fa fa-github" aria-hidden="true"></i>
+            Github <i className="fa fa-github" aria-hidden="true"></i>
           </a>
           <p className="app-description">
             A weather forecast web application that is made using jQuery and a
@@ -175,13 +175,13 @@ function PortfolioBody() {
             <img src={Scheduler} alt="Work Scheduler ScreenShot" />
           </a>
           <br />
-          <h8>Work Planner </h8>
+          <h5>Work Planner </h5>
           <a
             href="https://github.com/cheacliatt/gt-work-day-scheduler"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i className="fa fa-github" aria-hidden="true"></i>
+            Github <i className="fa fa-github" aria-hidden="true"></i>
           </a>
           <p className="app-description">
             A work day planner built with Javascript and Moment JS.
@@ -197,13 +197,13 @@ function PortfolioBody() {
             <img src={Password} alt="Password ScreenShot" />
           </a>
           <br />
-          <h8>Password Generator </h8>
+          <h5>Password Generator </h5>
           <a
             href="https://github.com/cheacliatt/gt-password-generator"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i className="fa fa-github" aria-hidden="true"></i>
+            Github <i className="fa fa-github" aria-hidden="true"></i>
           </a>
           <p className="app-description">
             A generator that creates for the user a specified password.
@@ -221,13 +221,13 @@ function PortfolioBody() {
             <img src={Pokemon} alt="Pokemon App ScreenShot" />
           </a>
           <br />
-          <h8>Card Collector App </h8>
+          <h5>Card Collector App </h5>
           <a
             href="https://github.com/cheacliatt/poketrader-app"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i className="fa fa-github" aria-hidden="true"></i>
+            Github <i className="fa fa-github" aria-hidden="true"></i>
           </a>
           <p className="app-description">
             A website hosting MySQL database for collecting cards.
@@ -243,13 +243,13 @@ function PortfolioBody() {
             <img src={Tracker} alt="CLA ScreenShot" />
           </a>
           <br />
-          <h8>Command Line App </h8>
+          <h5>Command Line App </h5>
           <a
             href="https://github.com/cheacliatt/gt-employee-tracker"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i className="fa fa-github" aria-hidden="true"></i>
+            Github <i className="fa fa-github" aria-hidden="true"></i>
           </a>
           <p className="app-description">
             A CLA that keeps track of employees within an organization.
