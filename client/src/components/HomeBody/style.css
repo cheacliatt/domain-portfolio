@@ -180,8 +180,11 @@
       align-content: center;
     }
   
-    .container {
-      margin-right: 40%;
-      margin-left: 8%;
+    #main-container {
+      margin-right: 0em;
+      margin-left: 0%;
+      padding-right: 2em;
+      width: auto;
+      
     }
   }
