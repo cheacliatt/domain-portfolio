@@ -55,7 +55,7 @@ img {
 }
 
 /* Container Class Width and Margin  */
-.container {
+/* .container {
   background-color: rgb(37, 37, 37) !important;
   height: 70%;
   margin-right: 80%;
@@ -68,7 +68,7 @@ img {
   position: relative;
   width: 60%;
   border-radius: 2%;
-}
+} */
 
 #portfolio-container {
   padding-bottom: 2%;
@@ -146,6 +146,7 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
+
   img {
     width: 50%;
     margin-left: auto;
@@ -165,19 +166,26 @@ footer {
   #contact-container {
     background-color: rgb(37, 37, 37) !important;
     height: 70%;
-    margin-right: 12%;
-    margin-left: 12%;
+    margin-right: 0%;
+    margin-left: 0%;
     margin-top: 10%;
     margin-bottom: 20%;
-    padding-left: 20px;
-    padding-top: 35px;
+    padding-left: 5%;
+    padding-top: 10%;
     padding-bottom: 35px;
+    padding-right: 5%;
     position: relative;
     width: auto;
-    align-content: center;
   }
 
-  .container {
+  /* #contact-container {
+    margin-right: 0em;
+    margin-left: 0%;
+    padding-left: 0%;
+    width: auto;
+  } */
+
+  /* .container {
     width: 70%;
-  }
+  } */
 }
