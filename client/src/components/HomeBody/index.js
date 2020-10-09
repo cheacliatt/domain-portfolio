@@ -4,16 +4,16 @@ import Profile from "./chea-profile.PNG";
 
 function HomeBody() {
   return (
-    <main class="container" id="main-container">
-      <header class="row">
-        <div class="col-sm-10">
+    <main className="container" id="main-container">
+      <header className="row">
+        <div className="col-sm-10">
           <h1>About Myself</h1>
         </div>
         {/* <div class="col-sm-1"></div> */}
       </header>
       <hr />
-      <article class="row main-row">
-        <segment class="col-sm-10">
+      <article className="row main-row">
+        <segment className="col-sm-10">
           <img src={Profile} alt="Me" id="chea-profile" />
           <p>
             I am a Full Stack Web and Software Developer, certified through the
@@ -46,7 +46,7 @@ function HomeBody() {
             Master of Arts in Literature.
           </p>
         </segment>
-        <div class="col-sm-1"></div>
+        <div className="col-sm-1"></div>
       </article>
     </main>
   );

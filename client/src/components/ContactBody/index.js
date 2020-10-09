@@ -8,7 +8,7 @@ function ContactBody() {
         <div className="col-sm">
           <div className="card">
             <div className="card-body">
-              <h5 className="card-title">Contact Information</h5>
+              <h5 className="card-title" id="contact-header">Contact Information</h5>
               <hr />
               <p id="contact-text">
                 Please use the following information to reach out about any

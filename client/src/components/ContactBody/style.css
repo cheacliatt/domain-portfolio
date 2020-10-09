@@ -3,14 +3,16 @@ h1 {
   color: whitesmoke;
   font-family: "Neuton", serif;
 }
-h5 {
-  font-family: "Neuton", serif;
+
+#contact-header {
+  color: black;
 }
 
-h8 {
-  color: whitesmoke;
-  font-weight: bold;
+h5 {
+  font-family: "Neuton", serif;
+  color: black;
 }
+
 
 p {
   color: whitesmoke;
@@ -38,7 +40,7 @@ img {
 }
 
 .contact-title {
-  color: whitesmoke !important;
+  color: rgb(14, 13, 13) !important;
 }
 
 #contact-text {
