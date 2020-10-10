@@ -42,7 +42,7 @@ function HomeBody() {
           <p>
             I have completed a Full Stack Development course offered by the
             Georgia Institute of Technology, receiving a 4.0 for my exemplary
-            work. My academic background also includes a Bacherlor of Arts in
+            work. My academic background also includes a Bachelor of Arts in
             English Composition, with side studies in Computer Science, and a
             Master of Arts in Literature.
           </p>
