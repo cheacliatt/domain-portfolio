@@ -20,7 +20,7 @@ function HomeBody() {
             Georgia Institute of Technology. My current skillset includes
             JavaScript application development with Object Oriented Programming,
             jQuery, React, Node, Express, MongoDB and SQL databases. I am also
-            comfortable with participating with Agile practices.
+            comfortable working with Agile practices in team-driven development.
           </p>
           <p>
             A Georgia native, originally from Augusta, I now reside within the
