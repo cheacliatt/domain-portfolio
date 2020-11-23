@@ -19,8 +19,10 @@ function HomeBody() {
             I am a Full Stack Web and Software Developer, certified through the
             Georgia Institute of Technology. My current skillset includes
             JavaScript application development with Object Oriented Programming,
-            jQuery, React, Node, Express, MongoDB and SQL databases. I am also
-            comfortable working with Agile practices in team-driven development.
+            jQuery, React, Node, Express, Git, MongoDB and SQL databases,
+            designing Unit Tests with Jest and Chai, and some working knowledge
+            in Java. I am also comfortable working with Agile practices in
+            team-driven, enterprise development.
           </p>
           <p>
             A Georgia native, originally from Augusta, I now reside within the
@@ -28,16 +30,21 @@ function HomeBody() {
             mountain bike, reading books (currently going through the Dune
             series), cooking, and spoiling my two cats. Being a life-long
             learner, I am always seeking opportunities to grow a career in web
-            development and enterpricing technologies around the Atlanta area.
+            development and enterpricing technologies around the Atlanta area,
+            but I am also comfortable with remote work.
           </p>
           <p>
-            Currently, I am employed as a Systems Adminstrator for American
-            Global Wealth Services, where I primarily create and update workflow
-            boards with Jira, facilitate transfer of Excel spreadsheets to SQL
-            database structures, and varied front-end development tasks. I am
-            also an intern for a startup enterprise application called Sky
-            Retro, where I contribute on both front-end and back-end
-            development. As you can see, I like to stay busy!
+            Currently, I am a Software Engineer intern for a startup enterprise
+            application called Sky Retro, where I contribute on both front-end
+            and back-end development. This includes database design and
+            implementation with MongoDB, designing service layer Express routes
+            monitored by Unit Tests, integration testing, React component
+            construction, and debugging. Recently, I also completed a contract
+            as a Systems Administrator for American Global Wealth Services,
+            where I primarily created and updated workflow boards with Jira,
+            facilitate transfer of Excel spreadsheets to SQL database
+            structures, and varied front-end development tasks with Wordpress.
+            As you can see, I like to stay busy!
           </p>
           <p>
             I have completed a Full Stack Development course offered by the
