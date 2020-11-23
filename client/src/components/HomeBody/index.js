@@ -35,16 +35,24 @@ function HomeBody() {
           </p>
           <p>
             Currently, I am a Software Engineer intern for a startup enterprise
-            application called Sky Retro, where I contribute on both front-end
-            and back-end development. This includes database design and
-            implementation with MongoDB, designing service layer Express routes
-            monitored by Unit Tests, integration testing, React component
-            construction, and debugging. Recently, I also completed a contract
-            as a Systems Administrator for American Global Wealth Services,
-            where I primarily created and updated workflow boards with Jira,
-            facilitate transfer of Excel spreadsheets to SQL database
-            structures, and varied front-end development tasks with Wordpress.
-            As you can see, I like to stay busy!
+            application called &#160;
+            <a
+              href="https://www.skyretro.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Sky Retro
+            </a>
+            , where I contribute on both front-end and back-end development.
+            This includes database design and implementation with MongoDB,
+            designing service layer Express routes monitored by Unit Tests,
+            integration testing, React component construction, and debugging.
+            Recently, I also completed a contract as a Systems Administrator for
+            American Global Wealth Services, where I primarily created and
+            updated workflow boards with Jira, facilitate transfer of Excel
+            spreadsheets to SQL database structures, and varied front-end
+            development tasks with Wordpress. As you can see, I like to stay
+            busy!
           </p>
           <p>
             I have completed a Full Stack Development course offered by the
