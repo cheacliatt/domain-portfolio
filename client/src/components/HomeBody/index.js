@@ -30,7 +30,7 @@ function HomeBody() {
             mountain bike, reading books (currently going through the Dune
             series), cooking, and spoiling my two cats. Being a life-long
             learner, I am always seeking opportunities to grow a career in web
-            development and enterpricing technologies around the Atlanta area,
+            development and enterprising technologies around the Atlanta area,
             but I am also comfortable with remote work.
           </p>
           <p>
