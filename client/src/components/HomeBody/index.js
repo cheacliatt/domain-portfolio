@@ -1,10 +1,22 @@
 import React from "react";
+import { Helmet } from "react-helmet";
 import "./style.css";
 import Profile from "./chea-profile.PNG";
 
 function HomeBody() {
   return (
     <main className="container" id="main-container">
+      <Helmet>
+        <title>Chea Cliatt's Portfolio</title>
+        <meta
+          name="description"
+          content="The Personal profile of Chea Cliatt, aspiring web and software engineer"
+        />
+        <meta
+          name="keywords"
+          content="Chea Cliatt,SWE,Engineer,Chea,Cliatt,software engineer"
+        />
+      </Helmet>
       <header className="row">
         <div className="col-sm-10">
           <h1>About Myself</h1>
@@ -14,7 +26,7 @@ function HomeBody() {
       <hr />
       <article className="row main-row">
         <segment className="col-sm-10">
-          <img src={Profile} alt="Me" id="chea-profile" />
+          <img src={Profile} alt="Chea Cliatt" id="chea-profile" />
           <p>
             I am a Full Stack Web and Software Developer, certified through the
             Georgia Institute of Technology. My current skillset includes
